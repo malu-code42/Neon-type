@@ -35,7 +35,6 @@ crescente, num visual inspirado em terminais e no imaginário cyberpunk.
 |:---:|:---:|
 | ![Menu](interface.menu.png) | ![Level Clear](LevelClear.png) |
 | **Loja** | **Game Over** |
-| ![Shopping](Shopping.png) | ![Game Over](GameOver.png) |
 
 ## 🚀 Como executar
 
