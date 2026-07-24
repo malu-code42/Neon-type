@@ -1,0 +1,72 @@
+<div align="center">
+
+# ⌨️ Neon-type
+
+### Jogo retrô de digitação com temática hacker e linguagens da computação
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![raylib](https://img.shields.io/badge/raylib-white?style=for-the-badge&logo=raylib&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## 📖 Sobre
+
+**Neon-type** é um jogo de digitação em estética retrô/neon com temática hacker,
+desenvolvido em **C** como projeto acadêmico em equipe na UERN. O jogador digita
+palavras ligadas ao mundo da computação enquanto avança por níveis de dificuldade
+crescente, num visual inspirado em terminais e no imaginário cyberpunk.
+
+## ✨ Funcionalidades
+
+- 🎯 Sistema de níveis com dificuldade progressiva
+- 🔥 Combos por acertos em sequência
+- 🪙 Economia interna com moedas e loja de upgrades
+- ❤️ Sistema de vidas e vidas extras
+- 🏆 Ranking de pontuação
+- 🎵 Trilha sonora e efeitos sonoros
+- 🖥️ Interface com estética de terminal hacker
+
+## 🖼️ Capturas de tela
+
+| Menu | Gameplay |
+|:---:|:---:|
+| ![Menu](interface.menu.png) | ![Level Clear](LevelClear.png) |
+| **Loja** | **Game Over** |
+| ![Shopping](Shopping.png) | ![Game Over](GameOver.png) |
+
+## 🚀 Como executar
+
+**Opção rápida (Windows):** baixe e execute o `neontype.exe`.
+
+**Compilando do código-fonte:**
+
+```bash
+# Clone o repositório
+git clone https://github.com/malu-code42/Neon-type.git
+cd Neon-type
+
+# Compile (Windows)
+build.bat
+```
+
+> Requer um compilador C (GCC/MinGW) e a biblioteca raylib configurada.
+
+## 🛠️ Tecnologias
+
+- **Linguagem:** C
+- **Gráficos/áudio:** raylib
+- **Build:** Batchfile (`build.bat`)
+
+## 👥 Equipe
+
+Projeto desenvolvido em grupo na disciplina de Ciência da Computação — UERN.
+Repositório original: [annethk/Neon-type](https://github.com/annethk/Neon-type)
+
+---
+
+<div align="center">
+Feito com 💜 e muito C
+</div>
