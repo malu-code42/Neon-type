@@ -28,14 +28,7 @@ crescente, num visual inspirado em terminais e no imaginário cyberpunk.
 - 🏆 Ranking de pontuação
 - 🎵 Trilha sonora e efeitos sonoros
 - 🖥️ Interface com estética de terminal hacker
-
-## 🖼️ Capturas de tela
-
-| Menu | Gameplay |
-|:---:|:---:|
-| ![Menu](interface.menu.png) | ![Level Clear](LevelClear.png) |
-| **Loja** | **Game Over** |
-
+  
 ## 🚀 Como executar
 
 **Opção rápida (Windows):** baixe e execute o `neontype.exe`.
